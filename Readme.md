@@ -33,13 +33,6 @@ To experience the Travellia app prototype, follow these steps:
 3. Provide Feedback:
    - We value your feedback! If you have any suggestions or ideas for improving the app, please feel free to reach out to us.
 
-## Contributing
-
-Contributions are welcome! If you would like to contribute to the development of the Travellia app or have ideas to enhance its features, please contact the project maintainer.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
