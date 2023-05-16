@@ -14,6 +14,7 @@ Travellia is a prototype app designed in Figma that provides innovative solution
 <img width="305" alt="Screenshot 2023-05-16 at 11 06 35 AM" src="https://github.com/SakshiKathote09/Travellia/assets/98234021/e6f50aba-3c25-488d-8c20-be65dcbdf167">
 <img width="310" alt="Screenshot 2023-05-16 at 11 07 04 AM" src="https://github.com/SakshiKathote09/Travellia/assets/98234021/5cd4c573-1eed-4f4e-852d-85ae71f0e3d1">
 <img width="310" alt="Screenshot 2023-05-16 at 11 07 27 AM" src="https://github.com/SakshiKathote09/Travellia/assets/98234021/40f434ad-02d6-4cdd-b80b-fac82c87bac0">
+<img width="313" alt="Screenshot 2023-05-16 at 11 08 48 AM" src="https://github.com/SakshiKathote09/Travellia/assets/98234021/907298ff-b8f4-4d91-94d8-5052a3ecb8ed">
 
 
 
